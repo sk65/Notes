@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ObjectClassMethods.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ObjectClassMethods.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ObjectClassMethods/ObjectClassMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+            <state relative-caret-position="323">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreangTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/string_class_methods_wrapper_classes_StreangBuilder/StreangTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="712">
+              <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -57,14 +66,15 @@
         <option value="$PROJECT_DIR$/src/Java_I_O/JavaNio.java" />
         <option value="$PROJECT_DIR$/src/Java_I_O/Java_I_O_.java" />
         <option value="$PROJECT_DIR$/src/Java_I_O/ExamplesFileInputStreamFileOutputStream.java" />
+        <option value="$PROJECT_DIR$/src/string_class_methods_wrapper_classes_StreangBuilder/StreangTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-49" />
-    <option name="y" value="45" />
-    <option name="width" value="1260" />
-    <option name="height" value="985" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-138" />
+    <option name="y" value="14" />
+    <option name="width" value="1202" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -112,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileExamples">
+  <component name="RunManager" selected="Application.StreangTest">
     <configuration name="ExamplesFileInputStreamFileOutputStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_I_O.ExamplesFileInputStreamFileOutputStream" />
       <module name="My_Reference_Java" />
@@ -146,8 +156,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InputStreamReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_I_O.InputStreamReaderTest" />
+    <configuration name="Java_I_O_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_I_O.Java_I_O_" />
       <module name="My_Reference_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -157,13 +167,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Java_I_O_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_I_O.Java_I_O_" />
+    <configuration name="StreangTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string_class_methods_wrapper_classes_StreangBuilder.StreangTest" />
       <module name="My_Reference_Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_I_O.*" />
+          <option name="PATTERN" value="string_class_methods_wrapper_classes_StreangBuilder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,19 +220,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.InputStreamReaderTest" />
       <item itemvalue="Application.ExamplesFileInputStreamFileOutputStream" />
       <item itemvalue="Application.Java_I_O_" />
       <item itemvalue="Application.ExamplesFileReaderFileWriter" />
       <item itemvalue="Application.FileExamples" />
+      <item itemvalue="Application.StreangTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreangTest" />
         <item itemvalue="Application.FileExamples" />
         <item itemvalue="Application.ExamplesFileReaderFileWriter" />
         <item itemvalue="Application.Java_I_O_" />
         <item itemvalue="Application.ExamplesFileInputStreamFileOutputStream" />
-        <item itemvalue="Application.InputStreamReaderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -251,11 +261,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23599523" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23599523" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28317153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30582523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -280,16 +290,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java_I_O/Java_I_O_.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4182">
-          <caret line="246" column="27" selection-start-line="246" selection-start-column="27" selection-end-line="246" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Java_I_O/RecursiveTraversalFolderTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -685,8 +685,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ObjectClassMethods/ObjectClassMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/string_class_methods_wrapper_classes_StreangBuilder/StreangTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="62" column="63" selection-start-line="62" selection-start-column="63" selection-end-line="62" selection-end-column="63" />
         </state>
       </provider>
     </entry>
